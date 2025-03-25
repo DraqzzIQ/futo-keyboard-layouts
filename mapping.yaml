@@ -97,7 +97,8 @@ languages:
     - bepo
     - pcqwerty
   de:
-    - german
+    - german_noted
+    - german_qwertz
     - qwertz
     - swiss
     - qwerty
